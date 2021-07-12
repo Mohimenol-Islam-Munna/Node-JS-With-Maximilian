@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h2{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    text-align: center; 
+    background-color: purple;
+    padding: 20px 0px;
+    color: white;
+}
+
+.content {
+    width: 50%; margin: auto;
+    margin-top: 40px;
+}

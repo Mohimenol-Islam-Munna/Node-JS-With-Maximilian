@@ -1,0 +1,1 @@
+console.log("This is a theoritical module.concepts covered in this module like npm, error , debugging");
